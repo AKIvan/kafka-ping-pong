@@ -1,0 +1,4 @@
+contextlib2==21.6.0
+kafka-python==2.0.2
+pymongo==4.0.2
+schema==0.7.5
