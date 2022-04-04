@@ -19,3 +19,5 @@ In order to run this scenario you need to follow the procedure:
 
 
 You should see the result in real time if both terminals are open and run properlly. 
+
+![Ping-Pong](ping-pong.png)
